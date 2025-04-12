@@ -9,7 +9,7 @@ bot.command("start", (ctx) => {
                 // Кнопка с Mini App
                 [{
                     text: "Начать викторину",
-                    web_app: { url: "https://github.com/Aslanly/mini-app.git" }
+                    web_app: { url: "https://aslanly.github.io/mini-app/" }
                 }]
             ]
         }
